@@ -1,0 +1,1 @@
+*/2 * * * * /opt/pi_phone_home/callback.sh > /dev/null 2>&1
